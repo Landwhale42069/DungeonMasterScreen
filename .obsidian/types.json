@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "sessions": "multitext",
+    "locations": "multitext",
+    "alignment": "text",
+    "constitution": "number",
+    "dexterity": "number",
+    "strength": "number",
+    "proficiency": "number",
+    "intelligence": "number",
+    "wisdom": "number",
+    "charisma": "number",
+    "property": "checkbox",
+    "meta.Prof": "checkbox",
+    "rating": "number"
+  }
+}

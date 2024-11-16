@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "55ec01ff7797f80a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99948090e2a19b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4761c95d50c2ae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "610a802f64f3c0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Together, Forever/Characters/Marco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marco"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97865ae862e9babe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9c5a0888301ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff38df72c754955a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c666fa108797764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d37a5bf5c1714561",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c88c42a11f016af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88cc8c866c4fe78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a65d9aaf7887288b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extras/Templates/Character.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Character"
+            }
+          },
+          {
+            "id": "ad805c978e8c96b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extras/Templates/Character.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Character"
+            }
+          },
+          {
+            "id": "587de0080bdd1da2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "692d3dff72649499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extras/Templates/Character.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ff38df72c754955a",
+  "lastOpenFiles": [
+    "Together, Forever/Characters/Marco.md",
+    "Extras/Templates/Character/Attributes.md",
+    "Together, Forever/Characters/Important Character.md",
+    "Extras/Templates/Character.md",
+    "Extras/Templates/Character/Healthbar.md",
+    "Extras/Templates/Faction.md",
+    "Extras/Templates/Character/Stats.md",
+    "Together, Forever/Main Story.md",
+    "Extras/Templates/Location.md",
+    "Extras/Templates/Character",
+    "Extras/Templates/Story Beat.md",
+    "Together, Forever/Story",
+    "Together, Forever/Locations",
+    "Together, Forever/Factions",
+    "Together, Forever/Characters",
+    "Together, Forever",
+    "Extras/Templates",
+    "Extras",
+    "Welcome.md"
+  ]
+}

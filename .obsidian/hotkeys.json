@@ -1,0 +1,11 @@
+{
+  "obsidian-meta-bind-plugin:open-playground": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}

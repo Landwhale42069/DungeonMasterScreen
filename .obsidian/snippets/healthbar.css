@@ -1,0 +1,14 @@
+.health-bar {
+    width: 100%;
+}
+
+.health-bar .health-bar-slider {
+    width: 95%;
+    height: 10px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    border-radius: 0;
+    height: 1rem;
+    width: 1rem;
+}
