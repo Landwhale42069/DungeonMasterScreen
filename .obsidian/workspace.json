@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "99948090e2a19b08",
+        "id": "be88f04502dde33c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4761c95d50c2ae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "610a802f64f3c0dc",
+            "id": "67a397bc9c85ae61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Together, Forever/Characters/Marco.md",
-                "mode": "source",
+                "file": "Story/Characters/Marco.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Marco"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Character.md",
+                "file": "Story/Together, Forever/Characters/Marco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character"
+              "title": "Backlinks for Marco"
             }
           },
           {
@@ -125,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Character.md",
+                "file": "Story/Together, Forever/Characters/Marco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Character"
+              "title": "Outgoing links from Marco"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Character.md"
+                "file": "Story/Together, Forever/Characters/Marco.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of Marco"
             }
           }
         ]
@@ -178,24 +165,42 @@
   },
   "active": "ff38df72c754955a",
   "lastOpenFiles": [
-    "Together, Forever/Characters/Marco.md",
-    "Extras/Templates/Character/Attributes.md",
-    "Together, Forever/Characters/Important Character.md",
+    "Story/Characters/Marco.md",
     "Extras/Templates/Character.md",
-    "Extras/Templates/Character/Healthbar.md",
-    "Extras/Templates/Faction.md",
-    "Extras/Templates/Character/Stats.md",
-    "Together, Forever/Main Story.md",
+    "Extras/Templates/Primatives/CharacterPrimitive.md",
+    "Story/Locations/CPT.md",
+    "Story/Locations/BLOEM.md",
+    "Story/Characters/Riley.md",
+    "Story/Characters/Jonothan.md",
+    "Story/Locations/JHB.md",
+    "Extras/Templates/Primatives/IdentityPrimitive.md",
+    "Extras/Templates/Primatives/AttributesPrimitive copy.md",
+    "Extras/Templates/Primatives/SpellSlotsPrimitive.md",
+    "DnD/Spells",
+    "Untitled",
+    "DnD",
+    "Extras/Templates/Primatives/ExperiencePrimitive.md",
+    "Extras/Templates/Primatives/HealthPrimitive.md",
+    "Extras/Templates/Primatives/AttributesPrimitive.md",
+    "Extras/Templates/Primatives/LocationPrimitive.md",
     "Extras/Templates/Location.md",
-    "Extras/Templates/Character",
+    "Story/Locations/PTA.md",
+    "asd.md",
+    "Story/Factions/BLOEM.md",
+    "Story/Story.md",
+    "Story/Together, Forever/Characters/Marco.md",
+    "Story/Together, Forever/Characters",
+    "Story/Together, Forever",
+    "Story/Party.canvas",
+    "Story/Together, Forever/Characters/Important Character.md",
     "Extras/Templates/Story Beat.md",
+    "Extras/Templates/Primatives/Level.md",
+    "Extras/Templates/Primatives/Core.md",
+    "Extras/Templates/Primatives/Proficiency.md",
+    "Extras/Templates/Primatives",
+    "Extras/Templates/Character",
     "Together, Forever/Story",
     "Together, Forever/Locations",
-    "Together, Forever/Factions",
-    "Together, Forever/Characters",
-    "Together, Forever",
-    "Extras/Templates",
-    "Extras",
-    "Welcome.md"
+    "Together, Forever/Factions"
   ]
 }

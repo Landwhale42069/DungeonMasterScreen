@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
     "style",
-    "healthbar"
+    "healthbar",
+    "Level.md"
   ]
 }
