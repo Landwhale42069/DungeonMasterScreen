@@ -41,5 +41,8 @@ creature:
 [[AttributesPrimitive]]
 ```
 ```meta-bind-embed
+[[QuestsRelatedToAPersonPrimitive]]
+```
+```meta-bind-embed
 [[AreasRelatedToAPersonPrimitive]]
 ```
