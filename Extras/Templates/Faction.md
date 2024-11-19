@@ -2,4 +2,6 @@
 tags:
   - faction
 ---
-faction
+```meta-bind-embed
+[[FactionPrimitive]]
+```
