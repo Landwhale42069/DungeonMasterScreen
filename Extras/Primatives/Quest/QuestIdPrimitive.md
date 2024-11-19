@@ -15,3 +15,4 @@ if (self.file.frontmatter.tags.indexOf("queststep") != -1) {
 }else if (self.file.frontmatter.tags.indexOf("questline") != -1) {
     mb.setMetadata(questIdBindTarget, self.file.name)
 }
+```
