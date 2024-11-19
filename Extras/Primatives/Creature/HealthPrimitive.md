@@ -1,7 +1,7 @@
 ```meta-bind-js-view
 {creature.health.max} as max
 ---
-const maxValue = context.bound.max ? creature.health.max : 10;
+const maxValue = context.bound.max ? context.bound.max : 10;
 
 const str = `\`\`\`meta-bind
 INPUT[progressBar(class(health-bar), defaultValue(10), maxValue(${maxValue})):creature.health.current]

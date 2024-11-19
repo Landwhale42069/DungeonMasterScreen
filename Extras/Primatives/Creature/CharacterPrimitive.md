@@ -41,5 +41,5 @@ creature:
 [[AttributesPrimitive]]
 ```
 ```meta-bind-embed
-[[AreasOfInterestPrimitive]]
+[[AreasRelatedToAPersonPrimitive]]
 ```
