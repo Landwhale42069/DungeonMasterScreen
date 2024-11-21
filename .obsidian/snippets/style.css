@@ -5,3 +5,9 @@
 .slider-l>input {
     width: 400px;
 }
+
+.table-test {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
