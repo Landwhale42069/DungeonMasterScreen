@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc67cf16293d7fc",
+        "id": "74d231dda64deaac",
         "type": "tabs",
         "children": [
           {
-            "id": "62aa6c0d122cac37",
+            "id": "7b45e675ac246506",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62aa6c0d122cac37",
+  "active": "ff38df72c754955a",
   "lastOpenFiles": [
     "TestNote.md",
+    "Extras/Config.md",
+    "Extras/Scripts/RelateToEntity.js",
+    "Extras/Templates/QuestStep.md",
+    "Extras/Scripts/RelateToObject.js",
     "Campaign/Characters/Marco.md",
     "Extras/Scripts/test.js",
     "Extras/Scripts",
     "Campaign/Locations/JHB.md",
-    "Extras/Templates/QuestStep.md",
     "Extras/Templates/QuestLine.md",
     "Extras/Templates/Object.md",
     "Extras/Templates/Location.md",
@@ -192,14 +195,11 @@
     "Extras/Primatives/Faction/FactionPrimitive.md",
     "Extras/Primatives/Faction",
     "Extras/Primatives/Quest/QuestLinePrimitive.md",
-    "Extras/Primatives/Quest/QuestStepPrimitive.md",
     "Extras/Primatives/Object",
     "Extras/Primatives/Location",
     "Extras/Primatives/Quest",
     "Extras/Primatives/Creature",
     "Campaign/QuestLine/QuestStep",
-    "Campaign/QuestLine/Quest",
-    "Campaign/Quest",
     "Campaign/Characters/riley.png",
     "Campaign/Characters/jonathan.png",
     "Campaign/Characters/marco.png",
