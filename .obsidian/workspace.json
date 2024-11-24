@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74d231dda64deaac",
+        "id": "1042436f3e3b077b",
         "type": "tabs",
         "children": [
           {
-            "id": "7b45e675ac246506",
+            "id": "ebbc03820877b9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,13 @@
   "lastOpenFiles": [
     "TestNote.md",
     "Extras/Config.md",
+    "Campaign/Objects/Wand of infinite weiner.md",
+    "Campaign/Characters/Marco.md",
+    "Campaign/Characters/Riley.md",
+    "Extras/Primatives/Creature/CharacterPrimitive.md",
     "Extras/Scripts/RelateToEntity.js",
     "Extras/Templates/QuestStep.md",
     "Extras/Scripts/RelateToObject.js",
-    "Campaign/Characters/Marco.md",
     "Extras/Scripts/test.js",
     "Extras/Scripts",
     "Campaign/Locations/JHB.md",
@@ -186,8 +189,6 @@
     "Campaign/QuestLine/QuestStep/Cow titty vs real titty.md",
     "Campaign/Factions/The coven of the milk.md",
     "Campaign/Campaign.md",
-    "Campaign/Characters/Riley.md",
-    "Campaign/Objects/Wand of infinite weiner.md",
     "Extras/Primatives/Creature/AreasRelatedToAPersonPrimitive copy.md",
     "Campaign/QuestLine/The quest for more money.md",
     "Campaign/Objects/milk.png",

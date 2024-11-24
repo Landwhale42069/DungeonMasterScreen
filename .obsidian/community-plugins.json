@@ -2,6 +2,5 @@
   "dataview",
   "templater-obsidian",
   "waypoint",
-  "obsidian-meta-bind-plugin",
-  "js-engine"
+  "obsidian-meta-bind-plugin"
 ]

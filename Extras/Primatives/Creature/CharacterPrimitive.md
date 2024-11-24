@@ -46,3 +46,13 @@ creature:
 ```meta-bind-embed
 [[AreasRelatedToAPersonPrimitive]]
 ```
+
+```dataviewjs
+dv.view("Extras/Scripts/RelateToEntity", { 
+	container: this.container,
+	component: this.component,
+	file: this.currentFilePath,
+	from: "character",
+	to: "object"
+	});
+```

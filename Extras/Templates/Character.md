@@ -1,7 +1,6 @@
 ---
 tags:
-  - creature
-  - humanoid
+  - character
 creature:
   attributes:
     StrengthMod: -5
